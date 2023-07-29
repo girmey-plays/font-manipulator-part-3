@@ -1,0 +1,36 @@
+body{
+
+background-size: cover;
+
+}
+
+.heading
+{
+
+font-size: 25px;
+width:100%;
+margin:0px;
+
+}
+
+#note
+{
+
+font-size: 15px;
+color:black;
+
+}
+
+.copyright_footer
+{
+
+background-color: grey;
+position:fixed;
+text-align: center;
+font-size: 23px;
+color:white;
+box-shadow:5px 5px 5px grey;
+bottom:0;
+width:100%;
+
+}
